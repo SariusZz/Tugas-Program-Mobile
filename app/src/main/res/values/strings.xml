@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">OSLO HEALTH CARE</string>
+    <string name="greeting">Selamat Datang</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Belum punya akun? Daftar sekarang</string>
+    <string name="login_success">Login berhasil</string>
+    <string name="login_failed">Login gagal</string>
+    <string name="login_subtitle">Silakan masuk untuk melanjutkan layanan kesehatan Anda</string>
+
+    <!-- Registration -->
+    <string name="register_title">Registrasi Akun Baru</string>
+    <string name="name_hint">Nama Lengkap</string>
+    <string name="confirm_password_hint">Konfirmasi Password</string>
+    <string name="gender_title">Jenis Kelamin</string>
+    <string name="gender_male">Laki-laki</string>
+    <string name="gender_female">Perempuan</string>
+    <string name="hobbies_title">Hobi (Pilih minimal 3)</string>
+    <string name="hobby_running">Running</string>
+    <string name="hobby_cycling">Cycling</string>
+    <string name="hobby_yoga">Yoga</string>
+    <string name="hobby_gym">Gym</string>
+    <string name="hobby_cooking">Healthy Cooking</string>
+    <string name="blood_type_title">Golongan Darah</string>
+    <string name="register_submit">Daftar</string>
+
+    <!-- Validation & Dialogs -->
+    <string name="error_empty">Bidang ini tidak boleh kosong</string>
+    <string name="error_email">Format email tidak valid</string>
+    <string name="error_password_length">Password minimal 6 karakter</string>
+    <string name="error_password_match">Password tidak cocok</string>
+    <string name="error_gender">Pilih jenis kelamin</string>
+    <string name="error_hobbies">Pilih minimal 3 hobi</string>
+    <string name="reg_confirm_title">Konfirmasi Registrasi</string>
+    <string name="reg_confirm_msg">Apakah Anda yakin ingin mendaftar?</string>
+    <string name="yes">YA</string>
+    <string name="no">TIDAK</string>
+    <string name="reg_success">Registrasi Berhasil</string>
+    <string name="health_tip">Tips Kesehatan: Minum air yang cukup dan berolahraga secara teratur.</string>
+</resources>

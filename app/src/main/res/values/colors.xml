@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_health">#0277BD</color> <!-- Blue medical color from logo -->
+    <color name="primary_dark_health">#01579B</color>
+    <color name="accent_health">#4FC3F7</color>
+    <color name="background_medical">#E1F5FE</color> <!-- Brighter medical blue-white -->
+    <color name="background_light">#F5F5F5</color>
+</resources>
